@@ -105,7 +105,7 @@ test-app/
 
 🛠️ **Cara Menjalankan:**
 
-1.  Clone repository: `git clone https://github.com/abibinyun/test-app.git`
+1.  Clone repository: `git clone https://github.com/abibinyun/test-app-rn.git`
 2.  Install dependencies: `npm install`
 3.  Start development server: `npm start`
 4.  Buka di device/simulator (scan QR code atau tekan 'a'/'i').
