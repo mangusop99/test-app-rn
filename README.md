@@ -57,7 +57,12 @@ test-app/
 │   ├── screens/          # Layar aplikasi (Home, Detail, Login)
 │   ├── theme/            # Definisi tema (warna, tipografi)
 │   ├── types/            # Definisi tipe TypeScript
+<<<<<<< HEAD
 │   ├── utis/             # Untuk
+=======
+│   ├── utis/             # Berisi fungsi-fungsi pembantu (helpers) untuk logika umum.
+│   └── _layout.tsx       # Root layout dengan provider
+>>>>>>> latest_branch
 │   └── _layout.tsx       # Root layout dengan provider
 └── ...
 ```
